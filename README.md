@@ -12,7 +12,7 @@ Este repositório reúne meus projetos acadêmicos desenvolvidos ao longo da gra
   
 ## 📂 Estrutura
 
-- `projetos-academicos/` – Trabalhos e atividades organizados por disciplina:
+- `projetos-academicos/`
   - `logica-da-programacao/`
   - `banco-de-dados/`
   - `estrutura-de-dados/`
