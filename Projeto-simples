@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primeiro commit: adiciona estrutura inicial"
+git branch -M main
+git remote add origin https://github.com/CamillaCEUB/PortfolioHUB.git
+git push -u origin main
